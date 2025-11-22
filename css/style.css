@@ -151,6 +151,6 @@ img{
 .autumn:hover .image img{
     transform: scale(1.2);
 }
-.summer:hover .box{
+.autumn:hover .box{
     opacity: 0.5;
 }
